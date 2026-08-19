@@ -1,30 +1,33 @@
-# RIKAHA Labs
+# Rikaha Labs
 
-RIKAHA Labs is the owner-operated engineering and product umbrella for a
-small set of independent products, infrastructure tools, and intelligence
-research projects.
+**We build focused internet products around real human behavior, durable information, and systems that can explain what they know.**
 
-## Products
+Rikaha Labs is a small independent product and engineering studio. We care about products that remain understandable as they grow: clear identity, trustworthy data boundaries, useful human context, restrained interfaces, and engineering history that another person can actually recover.
 
-- **DramasPicks** — product, platform, mobile, and recommendation work.
-- **RIKAHA** — product and platform work.
-- **AndhraFresh** — product platform work.
-- **BriefSift** — product platform work.
+## DramasPicks
 
-## Infrastructure and AI
+**[dramaspicks.com](https://dramaspicks.com)** — drama discovery and community built around catalogue identity, natural human conversation, provenance-aware evidence, and explainable intelligence.
 
-- **RIKAHA Homelab** — private operations and infrastructure management.
-- **Observability** — operational visibility and recovery tooling.
-- **ROS / ai01** — the private AI operations and assistance workstream.
+DramasPicks is designed for the questions drama fans actually ask: what to watch next, what a title feels like, why people disagree about it, who made it, where a recommendation came from, and how somebody's own viewing history changes what will fit them.
 
-## Research and intelligence
+It is deliberately more than a catalogue and deliberately less magical than a black-box recommendation bot.
 
-- **DramasPicks Intelligence Lab** — research supporting DramasPicks.
-- **RIKAHA Intelligence Lab** — independent intelligence and evaluation
-  research supporting RIKAHA.
+## How we build
 
-Repositories remain independently scoped: product, infrastructure, and
-research projects have their own ownership boundaries, governance, and
-release decisions. This organization is private-first and intentionally
-keeps operational details, personal data, credentials, and internal network
-information out of public materials.
+We prefer:
+
+- **human context over engagement tricks**;
+- **source and provenance over invented certainty**;
+- **calm, information-dense product design over generic dashboard chrome**;
+- **small coherent changes over giant speculative rewrites**;
+- **reproducible CI and explicit release gates over “works on my machine”**;
+- **durable GitHub history over project knowledge trapped in one person's memory**;
+- **research that earns production authority through evidence**.
+
+## Current focus
+
+We are currently concentrating on DramasPicks: strengthening its catalogue foundation, community model, mobile readiness, product education, and evidence-aware discovery system while keeping the public product simple to enter and useful from the first visit.
+
+---
+
+**Rikaha Labs** · independent product engineering · Germany
